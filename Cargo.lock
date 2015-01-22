@@ -1,5 +1,5 @@
 [root]
-name = "irc"
+name = "sheepsheadbot"
 version = "0.0.1"
 dependencies = [
  "irc 0.7.12 (git+https://github.com/aatxe/irc.git)",

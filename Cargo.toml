@@ -1,8 +1,8 @@
 [package]
 
-name = "irc"
+name = "sheepsheadbot"
 version = "0.0.1"
-authors = ["draggor"]
+authors = ["rdavidso"]
 
 [dependencies.irc]
 git = "https://github.com/aatxe/irc.git"
