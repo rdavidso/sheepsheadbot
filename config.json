@@ -1,0 +1,6 @@
+{
+    "server": "irc.freenode.org",
+    "port": 6667,
+    "nickname": "JohnDeLancie",
+    "channels": ["#dracolair"]
+}
